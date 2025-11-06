@@ -232,7 +232,7 @@ Users should be able to register, login, and access protected routes.
 ```
 
 **1. Planning Phase**
-- `Conductor` delegates to planning-subagent to analyze your Express codebase.
+- `Conductor` delegates to `planning-subagent` to analyze your Express codebase.
 - `planning-subagent` identifies existing patterns, middleware structure, and testing setup.
 - `Conductor` creates a 5-phase plan:
     1. User model and database schema.
