@@ -350,7 +350,7 @@ Created when all phases are done, contains:
 
 ### Maximizing Quality
 
-- **Trust the TDD Process** - Testing first seems slow but catches issues early and provides clear guide rails for implementation via AI agent.
+- **Trust the TDD Process** - Testing first seems slow but catches issues early and provides clear guide rails for implementation via AI agent, even when those tests are written by the AI agent.
     - Failing tests confirm you're testing the right behavior.
     - Minimal code keeps implementations focused.
     - Passing tests give confidence to proceed.
